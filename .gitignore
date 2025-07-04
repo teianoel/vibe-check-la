@@ -1,0 +1,23 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.Python
+env/
+venv/
+.env
+
+# Data files (adjust for your project)
+*.csv
+*.json
+gmap_cache/
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
